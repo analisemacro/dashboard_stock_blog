@@ -1,2 +1,2 @@
-# dashboard_stock_blog
-Postagem "Criando um Dashboard de análise de Ações no Python"
+# Criando um Dashboard de análise de Ações no Python
+Dashboard da postagem "Criando um Dashboard de análise de Ações no Python". 
